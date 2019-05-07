@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.exe.config
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.exe
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.pdb
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.xml
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Login.resources
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Resources.resources
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.exe
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.xml
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.pdb
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Principal.resources
