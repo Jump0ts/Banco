@@ -19,6 +19,10 @@
             End If
         Next
     End Function
-    
+    Public Shared Sub compTecla(e As System.Windows.Forms.KeyPressEventArgs)
+        If Not IsNumeric(e.KeyChar) Then
+            e.Handled = True
+        End If
+    End Sub
 
 End Class

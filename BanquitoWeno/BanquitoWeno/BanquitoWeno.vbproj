@@ -71,11 +71,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controlador.vb" />
+    <Compile Include="Datos.Designer.vb">
+      <DependentUpon>Datos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Datos.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MetodosPrincipal.vb" />
     <Compile Include="Principal.Designer.vb">
       <DependentUpon>Principal.vb</DependentUpon>
     </Compile>
     <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saldo.Designer.vb">
+      <DependentUpon>Saldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Saldo.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Tarjeta.vb" />
@@ -104,6 +116,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Datos.resx">
+      <DependentUpon>Datos.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.vb</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +130,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saldo.resx">
+      <DependentUpon>Saldo.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

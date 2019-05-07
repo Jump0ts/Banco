@@ -8,10 +8,10 @@
 
     Public Shared Sub lanzarPantalla(nCuenta As String)
         cuenta = Controlador.obtenerCuenta(nCuenta)
-        Principal.Visible = True
-        Login.Visible = False
+        Principal.Show()
+        Login.Close()
     End Sub
-    Public Property _cuenta As Cuenta
+    Public Shared Property _cuenta As Cuenta
         Get
             Return cuenta
         End Get

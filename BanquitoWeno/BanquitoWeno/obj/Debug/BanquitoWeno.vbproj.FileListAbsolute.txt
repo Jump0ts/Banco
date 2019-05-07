@@ -10,3 +10,5 @@ C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\o
 C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.pdb
 C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.vbprojResolveAssemblyReference.cache
 C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Principal.resources
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Datos.resources
+C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Saldo.resources
