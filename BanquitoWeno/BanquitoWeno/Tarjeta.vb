@@ -32,4 +32,18 @@
         Me.nombre = nombre
         Me.nCuenta = nCuenta
     End Sub
+    Public Sub New()
+        Me.nombre = ""
+    End Sub
+
+    Public Function cambiarPin(pinA As Integer, pinN As Integer, pinN2 As Integer) As String
+        If (pinA <> Me.pin) Then
+            Return "Has introducido mal el pin actual."
+        ElseIf (pinN <> pinN2) Then
+            Return "Los pines nuevos no se corresponden."
+        Else
+            Me.pin = pinN
+            Return "Pin cambiado correctamente."
+        End If
+    End Function
 End Class

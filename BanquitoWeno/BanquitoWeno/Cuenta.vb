@@ -42,4 +42,9 @@
         Me.correo = correo
         Me.saldo = saldo
     End Sub
+
+    Public Sub New()
+        Me.nombre = ""
+    End Sub
+
 End Class

@@ -11,4 +11,8 @@
         Me.Close()
 
     End Sub
+
+    Private Sub btnPin_Click(sender As Object, e As EventArgs) Handles btnPin.Click
+        Cambiar_Pin.ShowDialog()
+    End Sub
 End Class

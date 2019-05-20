@@ -26,6 +26,7 @@ Partial Class Datos
         Me.lblCorreo = New System.Windows.Forms.Label()
         Me.lblNombre = New System.Windows.Forms.Label()
         Me.btnAceptar = New System.Windows.Forms.Button()
+        Me.btnPin = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'lblCuenta
@@ -54,18 +55,28 @@ Partial Class Datos
         '
         'btnAceptar
         '
-        Me.btnAceptar.Location = New System.Drawing.Point(108, 98)
+        Me.btnAceptar.Location = New System.Drawing.Point(177, 98)
         Me.btnAceptar.Name = "btnAceptar"
         Me.btnAceptar.Size = New System.Drawing.Size(75, 23)
         Me.btnAceptar.TabIndex = 4
         Me.btnAceptar.Text = "Aceptar"
         Me.btnAceptar.UseVisualStyleBackColor = True
         '
+        'btnPin
+        '
+        Me.btnPin.Location = New System.Drawing.Point(15, 98)
+        Me.btnPin.Name = "btnPin"
+        Me.btnPin.Size = New System.Drawing.Size(75, 23)
+        Me.btnPin.TabIndex = 5
+        Me.btnPin.Text = "Cambiar Pin"
+        Me.btnPin.UseVisualStyleBackColor = True
+        '
         'Datos
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 143)
+        Me.Controls.Add(Me.btnPin)
         Me.Controls.Add(Me.btnAceptar)
         Me.Controls.Add(Me.lblNombre)
         Me.Controls.Add(Me.lblCorreo)
@@ -79,4 +90,5 @@ Partial Class Datos
     Friend WithEvents lblCorreo As System.Windows.Forms.Label
     Friend WithEvents lblNombre As System.Windows.Forms.Label
     Friend WithEvents btnAceptar As System.Windows.Forms.Button
+    Friend WithEvents btnPin As System.Windows.Forms.Button
 End Class

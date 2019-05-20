@@ -39,6 +39,8 @@ Partial Class Login
         Me.Button10 = New System.Windows.Forms.Button()
         Me.Button11 = New System.Windows.Forms.Button()
         Me.Button12 = New System.Windows.Forms.Button()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.lblIntentos = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'txtPin
@@ -204,11 +206,31 @@ Partial Class Login
         Me.Button12.Text = "DEL"
         Me.Button12.UseVisualStyleBackColor = True
         '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(68, 75)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(51, 13)
+        Me.Label3.TabIndex = 18
+        Me.Label3.Text = "Intentos: "
+        '
+        'lblIntentos
+        '
+        Me.lblIntentos.AutoSize = True
+        Me.lblIntentos.Location = New System.Drawing.Point(126, 75)
+        Me.lblIntentos.Name = "lblIntentos"
+        Me.lblIntentos.Size = New System.Drawing.Size(13, 13)
+        Me.lblIntentos.TabIndex = 19
+        Me.lblIntentos.Text = "0"
+        '
         'Login
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(356, 228)
+        Me.Controls.Add(Me.lblIntentos)
+        Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Button12)
         Me.Controls.Add(Me.Button11)
         Me.Controls.Add(Me.Button10)
@@ -249,5 +271,7 @@ Partial Class Login
     Friend WithEvents Button10 As System.Windows.Forms.Button
     Friend WithEvents Button11 As System.Windows.Forms.Button
     Friend WithEvents Button12 As System.Windows.Forms.Button
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents lblIntentos As System.Windows.Forms.Label
 
 End Class

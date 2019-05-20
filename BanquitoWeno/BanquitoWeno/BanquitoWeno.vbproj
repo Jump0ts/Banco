@@ -70,6 +70,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cambiar_Pin.Designer.vb">
+      <DependentUpon>Cambiar_Pin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cambiar_Pin.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Controlador.vb" />
     <Compile Include="Datos.Designer.vb">
       <DependentUpon>Datos.vb</DependentUpon>
@@ -77,11 +83,23 @@
     <Compile Include="Datos.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Ingresar_Dinero.Designer.vb">
+      <DependentUpon>Ingresar_Dinero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresar_Dinero.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MetodosPrincipal.vb" />
     <Compile Include="Principal.Designer.vb">
       <DependentUpon>Principal.vb</DependentUpon>
     </Compile>
     <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sacar_Dinero.Designer.vb">
+      <DependentUpon>Sacar_Dinero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sacar_Dinero.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Saldo.Designer.vb">
@@ -114,10 +132,22 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Transeferencias.Designer.vb">
+      <DependentUpon>Transeferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transeferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Cambiar_Pin.resx">
+      <DependentUpon>Cambiar_Pin.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Datos.resx">
       <DependentUpon>Datos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresar_Dinero.resx">
+      <DependentUpon>Ingresar_Dinero.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.vb</DependentUpon>
@@ -131,8 +161,14 @@
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Sacar_Dinero.resx">
+      <DependentUpon>Sacar_Dinero.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Saldo.resx">
       <DependentUpon>Saldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transeferencias.resx">
+      <DependentUpon>Transeferencias.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

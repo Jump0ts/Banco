@@ -12,3 +12,21 @@ C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\o
 C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Principal.resources
 C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Datos.resources
 C:\Users\usuario\Desktop\Examen 2º Trimestre\Examen\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Saldo.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.exe.config
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.exe
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.xml
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.pdb
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.exe
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.pdb
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.xml
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.vbprojResolveAssemblyReference.cache
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Datos.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Login.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Resources.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Principal.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Sacar_Dinero.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Saldo.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.vbproj.GenerateResource.Cache
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Ingresar_Dinero.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Transeferencias.resources
+D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Cambiar_Pin.resources

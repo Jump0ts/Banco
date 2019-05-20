@@ -1,13 +1,10 @@
 ﻿Public Class MetodosPrincipal
     Private Shared cuenta As Cuenta
+    Private Shared tarjeta As Tarjeta
 
-    Public Sub New(nCuenta As String)
-        cuenta = Controlador.obtenerCuenta(nCuenta)
-        'lanzarPantalla()
-    End Sub
-
-    Public Shared Sub lanzarPantalla(nCuenta As String)
-        cuenta = Controlador.obtenerCuenta(nCuenta)
+    Public Shared Sub lanzarPantalla(tarjeta As Tarjeta)
+        tarjeta = tarjeta
+        cuenta = Controlador.obtenerCuenta(tarjeta._nCuenta)
         Principal.Show()
         Login.Close()
     End Sub
@@ -19,5 +16,12 @@
             cuenta = value
         End Set
     End Property
-
+    Public Shared Property _tarjeta As Tarjeta
+        Get
+            Return tarjeta
+        End Get
+        Set(value As Tarjeta)
+            tarjeta = value
+        End Set
+    End Property
 End Class

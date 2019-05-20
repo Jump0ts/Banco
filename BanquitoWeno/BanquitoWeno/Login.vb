@@ -1,15 +1,19 @@
 ﻿Public Class Login
-
+    Private cont As Integer = 0
     Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
-        Dim nCuenta As String
-        nCuenta = Controlador.iniciaSesion(txtNombre.Text, txtPin.Text)
-        If nCuenta <> "" Then
+        Dim tarjeta As Tarjeta
+        tarjeta = Controlador.iniciaSesion(txtNombre.Text, txtPin.Text)
+        If tarjeta._nombre <> "" Then
             'Dim ventana As MetodosPrincipal = New MetodosPrincipal(nCuenta)
             'ShowDialog(New MetodosPrincipal(nCuenta))
-            MetodosPrincipal.lanzarPantalla(nCuenta)
+            MetodosPrincipal.lanzarPantalla(tarjeta)
             'New MetodosPrincipal(nCuenta)
         Else
-
+            cont = cont + 1
+            lblIntentos.Text = cont
+        End If
+        If (cont = 3) Then
+            Me.Close()
         End If
     End Sub
 
