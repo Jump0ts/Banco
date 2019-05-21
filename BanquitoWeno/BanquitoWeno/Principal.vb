@@ -2,7 +2,7 @@
 
 
     Private Sub Principal_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        lblSaludo.Text = "Bienvenido a su cuenta " + MetodosPrincipal._cuenta._nombre + "."
+        lblSaludo.Text = "Bienvenido a su cuenta " + MetodosPrincipal._tarjeta._nombre + "."
     End Sub
 
     Private Sub btnSalir_Click(sender As Object, e As EventArgs) Handles btnSalir.Click
@@ -28,5 +28,9 @@
 
     Private Sub btnTrans_Click(sender As Object, e As EventArgs) Handles btnTrans.Click
         Transeferencias.ShowDialog()
+    End Sub
+
+    Private Sub lblSaludo_Click(sender As Object, e As EventArgs) Handles lblSaludo.Click
+
     End Sub
 End Class

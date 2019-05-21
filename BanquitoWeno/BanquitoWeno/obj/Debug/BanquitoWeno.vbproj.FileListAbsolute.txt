@@ -30,3 +30,21 @@ D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.
 D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Ingresar_Dinero.resources
 D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Transeferencias.resources
 D:\Carpeta Personal\Escritorio\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Cambiar_Pin.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.exe.config
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.exe
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.xml
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.pdb
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.exe
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.pdb
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\bin\Debug\BanquitoWeno.xml
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Cambiar_Pin.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Datos.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Ingresar_Dinero.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Login.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Resources.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Principal.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Sacar_Dinero.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Saldo.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.Transeferencias.resources
+C:\Users\usuario\Desktop\BanquitoWeno\BanquitoWeno\obj\Debug\BanquitoWeno.vbproj.GenerateResource.Cache

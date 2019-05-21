@@ -2,8 +2,8 @@
     Private Shared cuenta As Cuenta
     Private Shared tarjeta As Tarjeta
 
-    Public Shared Sub lanzarPantalla(tarjeta As Tarjeta)
-        tarjeta = tarjeta
+    Public Shared Sub lanzarPantalla(tarjetaa As Tarjeta)
+        tarjeta = tarjetaa
         cuenta = Controlador.obtenerCuenta(tarjeta._nCuenta)
         Principal.Show()
         Login.Close()

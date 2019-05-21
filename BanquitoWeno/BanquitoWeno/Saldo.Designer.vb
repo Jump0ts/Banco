@@ -32,7 +32,6 @@ Partial Class Saldo
         Me.lblSaldo.Name = "lblSaldo"
         Me.lblSaldo.Size = New System.Drawing.Size(135, 55)
         Me.lblSaldo.TabIndex = 0
-        Me.lblSaldo.Text = "Saldo: "
         Me.lblSaldo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Button1
